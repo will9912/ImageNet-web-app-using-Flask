@@ -1,1 +1,1 @@
-# ImageNet-web-app-using-Flask
+# ImageNet classifier web app using Flask
